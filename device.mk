@@ -383,5 +383,8 @@ PRODUCT_COPY_FILES += \
     frameworks/native/data/etc/android.hardware.wifi.rtt.xml:$(TARGET_COPY_OUT_VENDOR)/etc/permissions/android.hardware.wifi.rtt.xml \
     frameworks/native/data/etc/android.hardware.wifi.xml:$(TARGET_COPY_OUT_VENDOR)/etc/permissions/android.hardware.wifi.xml
 
+# Face Unlock
+TARGET_FACE_UNLOCK_SUPPORTED := true
+
 # Inherit the proprietary files makefile
 $(call inherit-product, vendor/nothing/Tetris/Tetris-vendor.mk)
