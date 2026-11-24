@@ -1,6 +1,10 @@
 # Camera
 vendor.debug.morpho.               u:object_r:vendor_default_prop:s0
 
+# Face
+persist.vendor.face.          u:object_r:vendor_face_prop:s0
+ro.vendor.face.               u:object_r:vendor_face_prop:s0
+
 # Fingerprint
 persist.vendor.goodix.dump_data     u:object_r:vendor_fingerprint_prop:s0
 persist.vendor.overlay.fp_algo      u:object_r:vendor_fingerprint_prop:s0
