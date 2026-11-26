@@ -8,6 +8,7 @@ import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.lazy.LazyColumn
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.filled.AutoAwesome
+import androidx.compose.material.icons.filled.Brightness6
 import androidx.compose.material.icons.filled.DeviceThermostat
 import androidx.compose.material.icons.filled.DeveloperBoard
 import androidx.compose.material.icons.filled.BatteryChargingFull
@@ -72,6 +73,12 @@ fun PartsHomeScreen(onNavigate: (String) -> Unit) {
                         summary = stringResource(R.string.parts_adaptive_summary),
                         icon = Icons.Filled.AutoAwesome,
                         onClick = { onNavigate("adaptive") },
+                    )
+                    PartsPreference(
+                        title = stringResource(R.string.parts_display_title),
+                        summary = stringResource(R.string.parts_display_summary),
+                        icon = Icons.Filled.Brightness6,
+                        onClick = { onNavigate("display") },
                     )
                     PartsPreference(
                         title = stringResource(R.string.parts_memory_title),

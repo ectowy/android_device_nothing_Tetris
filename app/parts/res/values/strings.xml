@@ -18,4 +18,19 @@
     <string name="parts_adaptive_summary">Observe, adjust one limit and measure the result</string>
     <string name="parts_temperature_title">Temperatures</string>
     <string name="parts_temperature_summary">Live sensors, thermal status and temperature history</string>
+
+    <string name="display_title">Display</string>
+    <string name="display_legacy_slider_title">Legacy brightness slider</string>
+    <string name="display_legacy_slider_summary">Use the linear slider response from before the gamma-conversion fix. Restart the phone after changing this option.</string>
+    <string name="display_control_apply_failed">The change could not be confirmed. Check the current setting and try again.</string>
+    <string name="display_controls_summary">Restart the phone after changing the legacy brightness slider setting. Your choice is kept across subsequent restarts.</string>
+    <string name="display_brightness_section">Brightness</string>
+    <string name="display_legacy_curve_title">Use legacy brightness curve</string>
+    <string name="display_legacy_curve_summary">Restore the previous brightness response curve</string>
+    <string name="display_about_title">About display controls</string>
+
+
+    <string name="parts_display_title">Display</string>
+    <string name="parts_display_summary">Brightness slider response</string>
+
 </resources>

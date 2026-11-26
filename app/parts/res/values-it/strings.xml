@@ -18,4 +18,15 @@
     <string name="parts_adaptive_summary">Osserva, regola un limite e misura il risultato</string>
     <string name="parts_temperature_title">Temperature</string>
     <string name="parts_temperature_summary">Sensori in tempo reale, stato termico e andamento</string>
+    <string name="display_title">Display</string>
+    <string name="display_legacy_slider_title">Cursore luminosità legacy</string>
+    <string name="display_legacy_slider_summary">Usa la risposta lineare del cursore precedente alla correzione della conversione gamma. Riavvia il telefono dopo aver cambiato questa opzione.</string>
+    <string name="display_control_apply_failed">Non è stato possibile confermare la modifica. Controlla il valore attuale e riprova.</string>
+    <string name="display_controls_summary">Riavvia il telefono dopo aver modificato il cursore luminosità legacy. La scelta viene mantenuta ai riavvii successivi.</string>
+    <string name="display_brightness_section">Luminosità</string>
+    <string name="display_legacy_curve_title">Usa curva di luminosità legacy</string>
+    <string name="display_legacy_curve_summary">Ripristina la vecchia curva di risposta della luminosità</string>
+    <string name="display_about_title">Informazioni sui controlli display</string>
+    <string name="parts_display_title">Display</string>
+    <string name="parts_display_summary">Risposta del cursore di luminosità</string>
 </resources>
