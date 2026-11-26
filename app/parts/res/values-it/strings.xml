@@ -22,6 +22,11 @@
     <string name="display_legacy_slider_title">Cursore luminosità legacy</string>
     <string name="display_legacy_slider_summary">Usa la risposta lineare del cursore precedente alla correzione della conversione gamma. Riavvia il telefono dopo aver cambiato questa opzione.</string>
     <string name="display_control_apply_failed">Non è stato possibile confermare la modifica. Controlla il valore attuale e riprova.</string>
+    <string name="display_reboot_title">Riavvio necessario</string>
+    <string name="display_reboot_message">La modifica è stata salvata. Vuoi riavviare ora per applicarla?</string>
+    <string name="display_reboot_now">Riavvia ora</string>
+    <string name="display_reboot_later">Più tardi</string>
+    <string name="display_reboot_failed">Impossibile riavviare il telefono. La modifica è salvata: riavvia manualmente per applicarla.</string>
     <string name="display_controls_summary">Riavvia il telefono dopo aver modificato il cursore luminosità legacy. La scelta viene mantenuta ai riavvii successivi.</string>
     <string name="display_brightness_section">Luminosità</string>
     <string name="display_legacy_curve_title">Usa curva di luminosità legacy</string>
