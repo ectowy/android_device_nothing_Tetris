@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="display_title">डिस्प्ले</string>
+    <string name="display_brightness_section">चमक</string>
+    <string name="display_legacy_curve_title">जुना चमक वक्र वापरा</string>
+    <string name="display_legacy_curve_summary">मागील चमक प्रतिसाद वक्र पुनर्संचयित करा</string>
+    <string name="display_about_title">डिस्प्ले नियंत्रणांबद्दल</string>
+    <string name="parts_display_title">डिस्प्ले</string>
+    <string name="parts_display_summary">चमक</string>
+</resources>

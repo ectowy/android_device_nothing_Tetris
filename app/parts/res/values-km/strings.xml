@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="display_title">អេក្រង់</string>
+    <string name="display_brightness_section">ពន្លឺ</string>
+    <string name="display_legacy_curve_title">ប្រើកោងពន្លឺចាស់</string>
+    <string name="display_legacy_curve_summary">ស្ដារកោងប្រតិកម្មពន្លឺពីមុន</string>
+    <string name="display_about_title">អំពីការគ្រប់គ្រងអេក្រង់</string>
+    <string name="parts_display_title">អេក្រង់</string>
+    <string name="parts_display_summary">ពន្លឺ</string>
+</resources>

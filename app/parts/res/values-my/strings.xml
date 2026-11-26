@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="display_title">ဖန်သားပြင်</string>
+    <string name="display_brightness_section">တောက်ပမှု</string>
+    <string name="display_legacy_curve_title">ဟောင်းနွမ်းသော တောက်ပမှုကွေးကို သုံးပါ</string>
+    <string name="display_legacy_curve_summary">ယခင် တောက်ပမှုတုံ့ပြန်မှုကွေးကို ပြန်ယူပါ</string>
+    <string name="display_about_title">ဖန်သားပြင် ထိန်းချုပ်မှုများအကြောင်း</string>
+    <string name="parts_display_title">ဖန်သားပြင်</string>
+    <string name="parts_display_summary">တောက်ပမှု</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="display_title">顯示</string>
+    <string name="display_brightness_section">亮度</string>
+    <string name="display_legacy_curve_title">使用舊版亮度曲線</string>
+    <string name="display_legacy_curve_summary">還原先前的亮度回應曲線</string>
+    <string name="display_about_title">關於顯示控制</string>
+    <string name="parts_display_title">顯示</string>
+    <string name="parts_display_summary">亮度</string>
+</resources>

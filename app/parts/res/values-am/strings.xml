@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="display_title">ማሳያ</string>
+    <string name="display_brightness_section">ብርሃን</string>
+    <string name="display_legacy_curve_title">የድሮ ብርሃን ክርን ተጠቀም</string>
+    <string name="display_legacy_curve_summary">የቀድሞውን የብርሃን ምላሽ ክርን ወደ ቦታው መልስ</string>
+    <string name="display_about_title">ስለ ማሳያ መቆጣጠሪያዎች</string>
+    <string name="parts_display_title">ማሳያ</string>
+    <string name="parts_display_summary">ብርሃን</string>
+</resources>

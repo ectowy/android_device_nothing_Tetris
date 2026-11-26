@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="display_title">ડિસ્પ્લે</string>
+    <string name="display_brightness_section">બ્રાઇટનેસ</string>
+    <string name="display_legacy_curve_title">જૂનો બ્રાઇટનેસ કર્વ વાપરો</string>
+    <string name="display_legacy_curve_summary">પાછલો બ્રાઇટનેસ પ્રતિસાદ કર્વ પુનઃસ્થાપિત કરો</string>
+    <string name="display_about_title">ડિસ્પ્લે નિયંત્રણો વિશે</string>
+    <string name="parts_display_title">ડિસ્પ્લે</string>
+    <string name="parts_display_summary">બ્રાઇટનેસ</string>
+</resources>

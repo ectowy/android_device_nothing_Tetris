@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="display_title">العرض</string>
+    <string name="display_brightness_section">السطوع</string>
+    <string name="display_legacy_curve_title">استخدام منحنى السطوع القديم</string>
+    <string name="display_legacy_curve_summary">استعادة منحنى استجابة السطوع السابق</string>
+    <string name="display_about_title">حول عناصر التحكم في العرض</string>
+    <string name="parts_display_title">العرض</string>
+    <string name="parts_display_summary">السطوع</string>
+</resources>

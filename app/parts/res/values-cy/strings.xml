@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="display_title">Arddangos</string>
+    <string name="display_brightness_section">Disgleirdeb</string>
+    <string name="display_legacy_curve_title">Defnyddio cromlin disgleirdeb etifeddol</string>
+    <string name="display_legacy_curve_summary">Adfer cromlin ymateb disgleirdeb blaenorol</string>
+    <string name="display_about_title">Am reolaethau arddangos</string>
+    <string name="parts_display_title">Arddangos</string>
+    <string name="parts_display_summary">Disgleirdeb</string>
+</resources>

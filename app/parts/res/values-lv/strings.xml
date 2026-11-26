@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="display_title">Displejs</string>
+    <string name="display_brightness_section">Spilgtums</string>
+    <string name="display_legacy_curve_title">Izmantot veco spilgtuma līkni</string>
+    <string name="display_legacy_curve_summary">Atjaunot iepriekšējo spilgtuma reakcijas līkni</string>
+    <string name="display_about_title">Par displeja vadību</string>
+    <string name="parts_display_title">Displejs</string>
+    <string name="parts_display_summary">Spilgtums</string>
+</resources>

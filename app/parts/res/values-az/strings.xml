@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="display_title">Ekran</string>
+    <string name="display_brightness_section">Parlaqlıq</string>
+    <string name="display_legacy_curve_title">Köhnə parlaqlıq əyrisindən istifadə et</string>
+    <string name="display_legacy_curve_summary">Əvvəlki parlaqlıq cavab əyrisini bərpa et</string>
+    <string name="display_about_title">Ekran idarəetmələri haqqında</string>
+    <string name="parts_display_title">Ekran</string>
+    <string name="parts_display_summary">Parlaqlıq</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="display_title">Anzeige</string>
+    <string name="display_brightness_section">Helligkeit</string>
+    <string name="display_legacy_curve_title">Veraltete Helligkeitskurve verwenden</string>
+    <string name="display_legacy_curve_summary">Vorherige Helligkeitsreaktionskurve wiederherstellen</string>
+    <string name="display_about_title">Über Anzeigesteuerung</string>
+    <string name="parts_display_title">Anzeige</string>
+    <string name="parts_display_summary">Helligkeit</string>
+</resources>

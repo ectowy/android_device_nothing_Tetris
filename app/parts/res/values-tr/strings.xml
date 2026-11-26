@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="display_title">Ekran</string>
+    <string name="display_brightness_section">Parlaklık</string>
+    <string name="display_legacy_curve_title">Eski parlaklık eğrisini kullan</string>
+    <string name="display_legacy_curve_summary">Önceki parlaklık yanıt eğrisini geri yükle</string>
+    <string name="display_about_title">Ekran denetimleri hakkında</string>
+    <string name="parts_display_title">Ekran</string>
+    <string name="parts_display_summary">Parlaklık</string>
+</resources>

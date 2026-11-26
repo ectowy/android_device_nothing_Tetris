@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="display_title">Skjár</string>
+    <string name="display_brightness_section">Birtustig</string>
+    <string name="display_legacy_curve_title">Nota gamla birtustigskúrfu</string>
+    <string name="display_legacy_curve_summary">Endurheimta fyrri birtustigsvarskúrfu</string>
+    <string name="display_about_title">Um skjástýringar</string>
+    <string name="parts_display_title">Skjár</string>
+    <string name="parts_display_summary">Birtustig</string>
+</resources>

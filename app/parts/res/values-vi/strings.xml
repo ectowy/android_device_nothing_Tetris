@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="display_title">Màn hình</string>
+    <string name="display_brightness_section">Độ sáng</string>
+    <string name="display_legacy_curve_title">Dùng đường cong độ sáng cũ</string>
+    <string name="display_legacy_curve_summary">Khôi phục đường cong phản hồi độ sáng trước đó</string>
+    <string name="display_about_title">Về điều khiển màn hình</string>
+    <string name="parts_display_title">Màn hình</string>
+    <string name="parts_display_summary">Độ sáng</string>
+</resources>

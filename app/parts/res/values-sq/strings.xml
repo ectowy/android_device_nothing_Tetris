@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="display_title">Ekrani</string>
+    <string name="display_brightness_section">Ndriçimi</string>
+    <string name="display_legacy_curve_title">Përdor kurbën e vjetër të ndriçimit</string>
+    <string name="display_legacy_curve_summary">Rikthe kurbën e mëparshme të përgjigjes së ndriçimit</string>
+    <string name="display_about_title">Rreth kontrolleve të ekranit</string>
+    <string name="parts_display_title">Ekrani</string>
+    <string name="parts_display_summary">Ndriçimi</string>
+</resources>

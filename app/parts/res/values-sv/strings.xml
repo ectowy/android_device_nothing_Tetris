@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="display_title">Bildskärm</string>
+    <string name="display_brightness_section">Ljusstyrka</string>
+    <string name="display_legacy_curve_title">Använd gammal ljusstyrkekurva</string>
+    <string name="display_legacy_curve_summary">Återställ tidigare ljusstyrkeresponskurva</string>
+    <string name="display_about_title">Om bildskärmskontroller</string>
+    <string name="parts_display_title">Bildskärm</string>
+    <string name="parts_display_summary">Ljusstyrka</string>
+</resources>

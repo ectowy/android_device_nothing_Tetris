@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="display_title">Skerm</string>
+    <string name="display_brightness_section">Helderheid</string>
+    <string name="display_legacy_curve_title">Gebruik verouderde helderheidskromme</string>
+    <string name="display_legacy_curve_summary">Herstel die vorige helderheidsrespons-kromme</string>
+    <string name="display_about_title">Oor skermbeheer</string>
+    <string name="parts_display_title">Skerm</string>
+    <string name="parts_display_summary">Helderheid</string>
+</resources>

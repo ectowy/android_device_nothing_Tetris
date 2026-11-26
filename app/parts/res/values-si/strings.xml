@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="display_title">Display</string>
+    <string name="display_brightness_section">Brightness</string>
+    <string name="display_legacy_curve_title">Use legacy brightness curve</string>
+    <string name="display_legacy_curve_summary">Restore the previous brightness response curve</string>
+    <string name="display_about_title">About display controls</string>
+    <string name="parts_display_title">Display</string>
+    <string name="parts_display_summary">Brightness</string>
+</resources>

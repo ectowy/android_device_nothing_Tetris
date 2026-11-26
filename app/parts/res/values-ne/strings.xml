@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="display_title">प्रदर्शन</string>
+    <string name="display_brightness_section">चमक</string>
+    <string name="display_legacy_curve_title">पुरानो चमक वक्र प्रयोग गर्नुहोस्</string>
+    <string name="display_legacy_curve_summary">अघिल्लो चमक प्रतिक्रिया वक्र पुनर्स्थापना गर्नुहोस्</string>
+    <string name="display_about_title">प्रदर्शन नियन्त्रणबारे</string>
+    <string name="parts_display_title">प्रदर्शन</string>
+    <string name="parts_display_summary">चमक</string>
+</resources>

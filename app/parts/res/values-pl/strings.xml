@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="display_title">Wyświetlacz</string>
+    <string name="display_brightness_section">Jasność</string>
+    <string name="display_legacy_curve_title">Użyj starszej krzywej jasności</string>
+    <string name="display_legacy_curve_summary">Przywróć poprzednią krzywą reakcji jasności</string>
+    <string name="display_about_title">O sterowaniu wyświetlaczem</string>
+    <string name="parts_display_title">Wyświetlacz</string>
+    <string name="parts_display_summary">Jasność</string>
+</resources>

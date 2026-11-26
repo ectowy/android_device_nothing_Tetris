@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="display_title">Pantalla</string>
+    <string name="display_brightness_section">Brillantor</string>
+    <string name="display_legacy_curve_title">Utilitza la corba de brillantor antiga</string>
+    <string name="display_legacy_curve_summary">Restaura la corba de resposta de brillantor anterior</string>
+    <string name="display_about_title">Quant als controls de pantalla</string>
+    <string name="parts_display_title">Pantalla</string>
+    <string name="parts_display_summary">Brillantor</string>
+</resources>

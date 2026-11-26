@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="display_title">প্ৰদৰ্শন</string>
+    <string name="display_brightness_section">উজ্জ্বলতা</string>
+    <string name="display_legacy_curve_title">পুৰণি উজ্জ্বলতা বক্ৰ ব্যৱহাৰ কৰক</string>
+    <string name="display_legacy_curve_summary">পূৰ্বৰ উজ্জ্বলতা প্ৰতিক্ৰিয়া বক্ৰ পুনৰুদ্ধাৰ কৰক</string>
+    <string name="display_about_title">প্ৰদৰ্শন নিয়ন্ত্ৰণৰ বিষয়ে</string>
+    <string name="parts_display_title">প্ৰদৰ্শন</string>
+    <string name="parts_display_summary">উজ্জ্বলতা</string>
+</resources>

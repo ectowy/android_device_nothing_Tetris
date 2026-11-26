@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="display_title">Kuva</string>
+    <string name="display_brightness_section">Heledus</string>
+    <string name="display_legacy_curve_title">Kasuta vana heleduskõverat</string>
+    <string name="display_legacy_curve_summary">Taasta eelmine heledusvastuskõver</string>
+    <string name="display_about_title">Kuva juhtimise kohta</string>
+    <string name="parts_display_title">Kuva</string>
+    <string name="parts_display_summary">Heledus</string>
+</resources>

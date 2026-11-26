@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="display_title">نمایشگر</string>
+    <string name="display_brightness_section">روشنایی</string>
+    <string name="display_legacy_curve_title">استفاده از منحنی روشنایی قدیمی</string>
+    <string name="display_legacy_curve_summary">بازگرداندن منحنی پاسخ روشنایی قبلی</string>
+    <string name="display_about_title">درباره کنترل‌های نمایشگر</string>
+    <string name="parts_display_title">نمایشگر</string>
+    <string name="parts_display_summary">روشنایی</string>
+</resources>

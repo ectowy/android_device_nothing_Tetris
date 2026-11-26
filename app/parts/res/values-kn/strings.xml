@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="display_title">ಪ್ರದರ್ಶನ</string>
+    <string name="display_brightness_section">ಪ್ರಕಾಶಮಾನತೆ</string>
+    <string name="display_legacy_curve_title">ಹಳೆಯ ಪ್ರಕಾಶಮಾನತೆ ವಕ್ರವನ್ನು ಬಳಸಿ</string>
+    <string name="display_legacy_curve_summary">ಹಿಂದಿನ ಪ್ರಕಾಶಮಾನತೆ ಪ್ರತಿಕ್ರಿಯೆ ವಕ್ರವನ್ನು ಪುನಃಸ್ಥಾಪಿಸಿ</string>
+    <string name="display_about_title">ಪ್ರದರ್ಶನ ನಿಯಂತ್ರಣಗಳ ಬಗ್ಗೆ</string>
+    <string name="parts_display_title">ಪ್ರದರ್ಶನ</string>
+    <string name="parts_display_summary">ಪ್ರಕಾಶಮಾನತೆ</string>
+</resources>

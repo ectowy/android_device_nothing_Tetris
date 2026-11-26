@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="display_title">ഡിസ്പ്ലേ</string>
+    <string name="display_brightness_section">തെളിച്ചം</string>
+    <string name="display_legacy_curve_title">പഴയ തെളിച്ച വക്രം ഉപയോഗിക്കുക</string>
+    <string name="display_legacy_curve_summary">മുൻ തെളിച്ച പ്രതികരണ വക്രം പുനഃസ്ഥാപിക്കുക</string>
+    <string name="display_about_title">ഡിസ്പ്ലേ നിയന്ത്രണങ്ങളെക്കുറിച്ച്</string>
+    <string name="parts_display_title">ഡിസ്പ്ലേ</string>
+    <string name="parts_display_summary">തെളിച്ചം</string>
+</resources>

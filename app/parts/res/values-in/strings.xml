@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="display_title">Tampilan</string>
+    <string name="display_brightness_section">Kecerahan</string>
+    <string name="display_legacy_curve_title">Gunakan kurva kecerahan lama</string>
+    <string name="display_legacy_curve_summary">Pulihkan kurva respons kecerahan sebelumnya</string>
+    <string name="display_about_title">Tentang kontrol tampilan</string>
+    <string name="parts_display_title">Tampilan</string>
+    <string name="parts_display_summary">Kecerahan</string>
+</resources>

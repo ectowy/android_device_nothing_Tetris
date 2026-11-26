@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="display_title">תצוגה</string>
+    <string name="display_brightness_section">בהירות</string>
+    <string name="display_legacy_curve_title">השתמש בעקומת בהירות ישנה</string>
+    <string name="display_legacy_curve_summary">שחזר את עקומת תגובת הבהירות הקודמת</string>
+    <string name="display_about_title">על בקרות התצוגה</string>
+    <string name="parts_display_title">תצוגה</string>
+    <string name="parts_display_summary">בהירות</string>
+</resources>

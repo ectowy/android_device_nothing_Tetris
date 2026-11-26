@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="display_title">ディスプレイ</string>
+    <string name="display_brightness_section">明るさ</string>
+    <string name="display_legacy_curve_title">従来の輝度カーブを使用</string>
+    <string name="display_legacy_curve_summary">以前の輝度応答カーブを復元</string>
+    <string name="display_about_title">ディスプレイ制御について</string>
+    <string name="parts_display_title">ディスプレイ</string>
+    <string name="parts_display_summary">明るさ</string>
+</resources>

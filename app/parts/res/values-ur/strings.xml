@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="display_title">ڈسپلے</string>
+    <string name="display_brightness_section">چمک</string>
+    <string name="display_legacy_curve_title">پرانی چمک کرو استعمال کریں</string>
+    <string name="display_legacy_curve_summary">پچھلا چمک ردعمل کرو بحال کریں</string>
+    <string name="display_about_title">ڈسپلے کنٹرولز کے بارے میں</string>
+    <string name="parts_display_title">ڈسپلے</string>
+    <string name="parts_display_summary">چمک</string>
+</resources>

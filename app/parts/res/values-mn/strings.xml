@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="display_title">Дэлгэц</string>
+    <string name="display_brightness_section">Гэрэлтүүлэлт</string>
+    <string name="display_legacy_curve_title">Хуучин гэрэлтүүлэлтийн муруйг ашиглах</string>
+    <string name="display_legacy_curve_summary">Өмнөх гэрэлтүүлэлтийн хариу муруйг сэргээх</string>
+    <string name="display_about_title">Дэлгэцийн удирдлагын тухай</string>
+    <string name="parts_display_title">Дэлгэц</string>
+    <string name="parts_display_summary">Гэрэлтүүлэлт</string>
+</resources>

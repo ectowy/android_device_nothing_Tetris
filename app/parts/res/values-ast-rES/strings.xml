@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Original AI-assisted translation; Android placeholders and units retained. -->
 <resources>
     <string name="adaptive_action_failed">Nun se pudo anovar el controlador. Comprueba\'l so estáu actual y vuelve intentalo.</string>
     <string name="adaptive_battery_current">Corriente de la batería</string>
@@ -337,4 +336,11 @@
     <string name="adaptive_reason_low_load">Una carga baxa de la CPU suxer probar una frecuencia máxima menor pa reducir el consumu d\'enerxía.</string>
     <string name="adaptive_reason_high_load">Una carga alta de la CPU suxer probar una frecuencia máxima mayor pa esta carga de trabayu.</string>
     <string name="adaptive_reason_waiting_workload">Vuelve a l\'aplicación usada pa les llectures iniciales pa midir la resultancia.</string>
+    <string name="display_title">Display</string>
+    <string name="display_brightness_section">Brightness</string>
+    <string name="display_legacy_curve_title">Use legacy brightness curve</string>
+    <string name="display_legacy_curve_summary">Restore the previous brightness response curve</string>
+    <string name="display_about_title">About display controls</string>
+    <string name="parts_display_title">Display</string>
+    <string name="parts_display_summary">Brightness</string>
 </resources>

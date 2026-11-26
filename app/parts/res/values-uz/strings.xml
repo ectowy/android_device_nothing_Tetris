@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="display_title">Displey</string>
+    <string name="display_brightness_section">Yorqinlik</string>
+    <string name="display_legacy_curve_title">Eski yorqinlik egri chizig\'ini ishlatish</string>
+    <string name="display_legacy_curve_summary">Oldingi yorqinlik javob egri chizig\'ini tiklash</string>
+    <string name="display_about_title">Displey boshqaruvi haqida</string>
+    <string name="parts_display_title">Displey</string>
+    <string name="parts_display_summary">Yorqinlik</string>
+</resources>

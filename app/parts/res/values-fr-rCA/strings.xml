@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="display_title">Affichage</string>
+    <string name="display_brightness_section">Luminosité</string>
+    <string name="display_legacy_curve_title">Utiliser l\'ancienne courbe de luminosité</string>
+    <string name="display_legacy_curve_summary">Restaurer l\'ancienne courbe de réponse de luminosité</string>
+    <string name="display_about_title">À propos des contrôles d\'affichage</string>
+    <string name="parts_display_title">Affichage</string>
+    <string name="parts_display_summary">Luminosité</string>
+</resources>
