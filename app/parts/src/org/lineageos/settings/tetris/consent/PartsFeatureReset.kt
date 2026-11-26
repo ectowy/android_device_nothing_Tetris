@@ -9,6 +9,7 @@ import org.lineageos.settings.tetris.adaptive.AdaptiveRepository
 import org.lineageos.settings.tetris.adaptive.AdaptiveService
 import org.lineageos.settings.tetris.battery.ChargeBypassSession
 import org.lineageos.settings.tetris.cpu.CpuControlSession
+import org.lineageos.settings.tetris.display.DisplayRepository
 import org.lineageos.settings.tetris.gpu.GpuControlSession
 import org.lineageos.settings.tetris.network.TcpControlSession
 import org.lineageos.settings.tetris.thermal.ThermalController
@@ -30,6 +31,7 @@ internal object PartsFeatureReset {
         // Revocation itself is immediate. Wait only on this worker for any old
         // property/Binder transaction (including its rollback) before resetting.
         PartsControlGate.awaitPendingMutations()
+        reset("display") { DisplayRepository.disableForConsent() }
         reset("charge_bypass") { ChargeBypassSession.manager.disableForConsent() }
         reset("adaptive") {
             val restored = AdaptiveRepository.get(app).disableForConsent()
