@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="display_title">Οθόνη</string>
+    <string name="display_brightness_section">Φωτεινότητα</string>
+    <string name="display_legacy_curve_title">Χρήση παλιάς καμπύλης φωτεινότητας</string>
+    <string name="display_legacy_curve_summary">Επαναφορά προηγούμενης καμπύλης απόκρισης φωτεινότητας</string>
+    <string name="display_about_title">Σχετικά με τα χειριστήρια οθόνης</string>
+    <string name="parts_display_title">Οθόνη</string>
+    <string name="parts_display_summary">Φωτεινότητα</string>
+</resources>

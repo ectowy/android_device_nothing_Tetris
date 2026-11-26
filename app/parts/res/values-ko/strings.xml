@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="display_title">디스플레이</string>
+    <string name="display_brightness_section">밝기</string>
+    <string name="display_legacy_curve_title">이전 밝기 곡선 사용</string>
+    <string name="display_legacy_curve_summary">이전 밝기 응답 곡선 복원</string>
+    <string name="display_about_title">디스플레이 제어 정보</string>
+    <string name="parts_display_title">디스플레이</string>
+    <string name="parts_display_summary">밝기</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="display_title">Pantaila</string>
+    <string name="display_brightness_section">Distira</string>
+    <string name="display_legacy_curve_title">Distira-kurba zaharra erabili</string>
+    <string name="display_legacy_curve_summary">Aurreko distira-erantzun kurba leheneratu</string>
+    <string name="display_about_title">Bistaratze-kontrolei buruz</string>
+    <string name="parts_display_title">Pantaila</string>
+    <string name="parts_display_summary">Distira</string>
+</resources>

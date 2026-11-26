@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="display_title">Ekranas</string>
+    <string name="display_brightness_section">Ryškumas</string>
+    <string name="display_legacy_curve_title">Naudoti seną ryškumo kreivę</string>
+    <string name="display_legacy_curve_summary">Atkurti ankstesnę ryškumo atsako kreivę</string>
+    <string name="display_about_title">Apie ekrano valdiklius</string>
+    <string name="parts_display_title">Ekranas</string>
+    <string name="parts_display_summary">Ryškumas</string>
+</resources>

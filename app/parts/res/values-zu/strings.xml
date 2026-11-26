@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="display_title">Ukubonisa</string>
+    <string name="display_brightness_section">Ukukhanya</string>
+    <string name="display_legacy_curve_title">Sebenzisa ikhefu lokukhanya elidala</string>
+    <string name="display_legacy_curve_summary">Buyisela ikhefu lokuphendula lokukhanya kwangaphambili</string>
+    <string name="display_about_title">Mayelana nokulawula ukubonisa</string>
+    <string name="parts_display_title">Ukubonisa</string>
+    <string name="parts_display_summary">Ukukhanya</string>
+</resources>

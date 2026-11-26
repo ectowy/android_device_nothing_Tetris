@@ -1,0 +1,6 @@
+# SPDX-License-Identifier: Apache-2.0
+
+# SettingsLib reads this once per process. Restore the saved slider response
+# after persistent properties load and before the framework apps start.
+on load_persist_props_action
+    setprop sys.brightness.disable_gamma_conversion ${persist.tetris.display.legacy_brightness_curve:-false}

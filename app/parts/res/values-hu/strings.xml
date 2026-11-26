@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="display_title">Kijelző</string>
+    <string name="display_brightness_section">Fényerő</string>
+    <string name="display_legacy_curve_title">Régi fényerőgörbe használata</string>
+    <string name="display_legacy_curve_summary">Az előző fényerő-válaszgörbe visszaállítása</string>
+    <string name="display_about_title">A kijelző vezérlőkről</string>
+    <string name="parts_display_title">Kijelző</string>
+    <string name="parts_display_summary">Fényerő</string>
+</resources>

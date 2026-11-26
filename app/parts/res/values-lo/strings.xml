@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="display_title">ສະແດງ</string>
+    <string name="display_brightness_section">ຄວາມສະຫວ່າງ</string>
+    <string name="display_legacy_curve_title">ໃຊ້ເສັ້ນສະຫວ່າງແບບເກົ່າ</string>
+    <string name="display_legacy_curve_summary">ກູ້ຄືນເສັ້ນຕອບສະໜອງຄວາມສະຫວ່າງກ່ອນໜ້າ</string>
+    <string name="display_about_title">ກ່ຽວກັບການຄວບຄຸມຈໍສະແດງ</string>
+    <string name="parts_display_title">ສະແດງ</string>
+    <string name="parts_display_summary">ຄວາມສະຫວ່າງ</string>
+</resources>

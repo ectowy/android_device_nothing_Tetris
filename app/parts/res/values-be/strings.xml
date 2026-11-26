@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="display_title">Экран</string>
+    <string name="display_brightness_section">Яркасць</string>
+    <string name="display_legacy_curve_title">Выкарыстоўваць старую крывую яркасці</string>
+    <string name="display_legacy_curve_summary">Аднавіць папярэднюю крывую водгуку яркасці</string>
+    <string name="display_about_title">Пра кіраванне экранам</string>
+    <string name="parts_display_title">Экран</string>
+    <string name="parts_display_summary">Яркасць</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="display_title">Pantalla</string>
+    <string name="display_brightness_section">Brillo</string>
+    <string name="display_legacy_curve_title">Usar curva de brillo clásica</string>
+    <string name="display_legacy_curve_summary">Restaurar la curva de respuesta de brillo anterior</string>
+    <string name="display_about_title">Acerca de los controles de pantalla</string>
+    <string name="parts_display_title">Pantalla</string>
+    <string name="parts_display_summary">Brillo</string>
+</resources>

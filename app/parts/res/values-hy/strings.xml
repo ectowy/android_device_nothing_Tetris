@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="display_title">Էկրան</string>
+    <string name="display_brightness_section">Պայծառություն</string>
+    <string name="display_legacy_curve_title">Օգտագործել ժառանգական պայծառության կորը</string>
+    <string name="display_legacy_curve_summary">Վերականգնել նախորդ պայծառության պատասխան կորը</string>
+    <string name="display_about_title">Էկրանի կառավարման մասին</string>
+    <string name="parts_display_title">Էկրան</string>
+    <string name="parts_display_summary">Պայծառություն</string>
+</resources>

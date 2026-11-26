@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="display_title">Afișaj</string>
+    <string name="display_brightness_section">Luminozitate</string>
+    <string name="display_legacy_curve_title">Folosește curba de luminozitate veche</string>
+    <string name="display_legacy_curve_summary">Restaurează curba de răspuns a luminozității anterioară</string>
+    <string name="display_about_title">Despre controalele afișajului</string>
+    <string name="parts_display_title">Afișaj</string>
+    <string name="parts_display_summary">Luminozitate</string>
+</resources>

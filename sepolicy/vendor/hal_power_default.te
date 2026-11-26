@@ -1,7 +1,7 @@
 allow hal_power_default vendor_sysfs_graphics:dir r_dir_perms;
 allow hal_power_default vendor_sysfs_graphics:file rw_file_perms;
 
-# ADPF applies per-thread uclamp through sched_setattr.
+# ADPF
 typeattribute hal_power_default mlstrustedsubject;
 allow hal_power_default self:capability sys_nice;
 allow hal_power_default appdomain:process { getsched setsched };

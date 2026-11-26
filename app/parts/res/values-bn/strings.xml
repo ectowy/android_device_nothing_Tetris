@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="display_title">ডিসপ্লে</string>
+    <string name="display_brightness_section">উজ্জ্বলতা</string>
+    <string name="display_legacy_curve_title">পুরানো উজ্জ্বলতা বক্ররেখা ব্যবহার করুন</string>
+    <string name="display_legacy_curve_summary">পূর্ববর্তী উজ্জ্বলতা প্রতিক্রিয়া বক্ররেখা পুনরুদ্ধার করুন</string>
+    <string name="display_about_title">ডিসপ্লে নিয়ন্ত্রণ সম্পর্কে</string>
+    <string name="parts_display_title">ডিসপ্লে</string>
+    <string name="parts_display_summary">উজ্জ্বলতা</string>
+</resources>

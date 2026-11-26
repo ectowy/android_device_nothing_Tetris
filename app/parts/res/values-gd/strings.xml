@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="display_title">Taisbeanadh</string>
+    <string name="display_brightness_section">Soilleireachd</string>
+    <string name="display_legacy_curve_title">Cleachd seann chùrsa soilleireachd</string>
+    <string name="display_legacy_curve_summary">Aisig an seann chùrsa freagairt soilleireachd</string>
+    <string name="display_about_title">Mu stiùireadh taisbeanadh</string>
+    <string name="parts_display_title">Taisbeanadh</string>
+    <string name="parts_display_summary">Soilleireachd</string>
+</resources>

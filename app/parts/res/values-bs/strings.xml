@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="display_title">Ekran</string>
+    <string name="display_brightness_section">Svjetlina</string>
+    <string name="display_legacy_curve_title">Koristi staru krivu osvjetljenja</string>
+    <string name="display_legacy_curve_summary">Vrati prethodnu krivu odziva osvjetljenja</string>
+    <string name="display_about_title">O kontrolama ekrana</string>
+    <string name="parts_display_title">Ekran</string>
+    <string name="parts_display_summary">Svjetlina</string>
+</resources>

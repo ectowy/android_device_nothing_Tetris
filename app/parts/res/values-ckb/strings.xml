@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="display_title">پیشاندان</string>
+    <string name="display_brightness_section">رووناکی</string>
+    <string name="display_legacy_curve_title">بەکارهێنانی خوارەوەی رووناکی کۆن</string>
+    <string name="display_legacy_curve_summary">گەڕاندنەوەی خوارەوەی وەڵامی رووناکی پێشوو</string>
+    <string name="display_about_title">دەربارەی کۆنترۆڵەکانی پیشاندان</string>
+    <string name="parts_display_title">پیشاندان</string>
+    <string name="parts_display_summary">رووناکی</string>
+</resources>

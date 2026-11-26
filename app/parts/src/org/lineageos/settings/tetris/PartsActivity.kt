@@ -20,6 +20,7 @@ import org.lineageos.settings.tetris.adaptive.AdaptiveScreen
 import org.lineageos.settings.tetris.adaptive.AdaptiveService
 import org.lineageos.settings.tetris.battery.BatteryScreen
 import org.lineageos.settings.tetris.cpu.CpuScreen
+import org.lineageos.settings.tetris.display.DisplayScreen
 import org.lineageos.settings.tetris.consent.TermsActivity
 import org.lineageos.settings.tetris.consent.TermsConsent
 import org.lineageos.settings.tetris.gpu.GpuScreen
@@ -128,6 +129,7 @@ class PartsSubActivity : ComponentActivity() {
             TetrisPartsTheme {
                 when (destination) {
                     PartsPage.NETWORK -> NetworkScreen(::finish)
+                    PartsPage.DISPLAY -> DisplayScreen(::finish)
                     PartsPage.CPU -> CpuScreen(::finish)
                     PartsPage.GPU -> GpuScreen(::finish)
                     PartsPage.MEMORY -> MemoryScreen(::finish)
@@ -171,7 +173,7 @@ private fun ComponentActivity.requireDeviceOwner(): Boolean {
 
 private enum class PartsPage(val route: String) {
     CPU("cpu"), GPU("gpu"), MEMORY("memory"), BATTERY("battery"),
-    TEMPERATURE("temperature"), ADAPTIVE("adaptive"), NETWORK("network");
+    TEMPERATURE("temperature"), ADAPTIVE("adaptive"), NETWORK("network"), DISPLAY("display");
 
     companion object {
         fun fromRoute(route: String?): PartsPage? = entries.firstOrNull { it.route == route }

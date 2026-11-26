@@ -1,0 +1,14 @@
+# SPDX-License-Identifier: Apache-2.0
+
+system_internal_prop(tetrisparts_display_request_prop)
+set_prop(tetris_parts_app, tetrisparts_display_request_prop)
+neverallow { domain -init -tetris_parts_app } tetrisparts_display_request_prop:property_service set;
+
+# SettingsLib reads this across domains; only system init writes it.
+# Restricted scope also excludes recovery's generic vendor_init property grant.
+system_restricted_prop(tetrisparts_brightness_curve_prop)
+get_prop(domain, tetrisparts_brightness_curve_prop)
+neverallow { domain -init } tetrisparts_brightness_curve_prop:property_service set;
+
+# User-confirmed restart after changing the brightness slider response.
+allow tetris_parts_app power_service:service_manager find;

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="display_title">ପ୍ରଦର୍ଶନ</string>
+    <string name="display_brightness_section">ଔଜସ୍ୱିତା</string>
+    <string name="display_legacy_curve_title">ପୁରୁଣା ଔଜସ୍ୱିତା ବକ୍ର ବ୍ୟବହାର କରନ୍ତୁ</string>
+    <string name="display_legacy_curve_summary">ପୂର୍ବ ଔଜସ୍ୱିତା ପ୍ରତିକ୍ରିୟା ବକ୍ର ପୁନରୁଦ୍ଧାର କରନ୍ତୁ</string>
+    <string name="display_about_title">ପ୍ରଦର୍ଶନ ନିୟନ୍ତ୍ରଣ ବିଷୟରେ</string>
+    <string name="parts_display_title">ପ୍ରଦର୍ଶନ</string>
+    <string name="parts_display_summary">ଔଜସ୍ୱିତା</string>
+</resources>

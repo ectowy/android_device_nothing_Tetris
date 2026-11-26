@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="display_title">Ecrã</string>
+    <string name="display_brightness_section">Brilho</string>
+    <string name="display_legacy_curve_title">Usar curva de brilho antiga</string>
+    <string name="display_legacy_curve_summary">Restaurar a curva de resposta de brilho anterior</string>
+    <string name="display_about_title">Acerca dos controlos do ecrã</string>
+    <string name="parts_display_title">Ecrã</string>
+    <string name="parts_display_summary">Brilho</string>
+</resources>

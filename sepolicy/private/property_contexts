@@ -9,3 +9,6 @@ sys.tetrisparts.tcp_ready u:object_r:tetrisparts_tcp_status_prop:s0 exact bool
 # Volatile gate: Parts validates the current terms before restoring saved features.
 sys.tetrisparts.consent u:object_r:tetris_parts_consent_prop:s0 exact bool
 sys.tetrisparts.tcp_restore u:object_r:tetrisparts_tcp_request_prop:s0 exact enum off reno cubic bic westwood htcp bbr bbr3
+
+persist.tetris.display.legacy_brightness_curve u:object_r:tetrisparts_display_request_prop:s0 exact bool
+sys.brightness.disable_gamma_conversion u:object_r:tetrisparts_brightness_curve_prop:s0 exact bool

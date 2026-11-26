@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="display_title">Екран</string>
+    <string name="display_brightness_section">Осветленост</string>
+    <string name="display_legacy_curve_title">Користи стара крива на осветленост</string>
+    <string name="display_legacy_curve_summary">Врати ја претходната крива на одговор на осветленост</string>
+    <string name="display_about_title">За контролите на екранот</string>
+    <string name="parts_display_title">Екран</string>
+    <string name="parts_display_summary">Осветленост</string>
+</resources>

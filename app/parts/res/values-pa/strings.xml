@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="display_title">ਡਿਸਪਲੇ</string>
+    <string name="display_brightness_section">ਚਮਕ</string>
+    <string name="display_legacy_curve_title">ਪੁਰਾਣੀ ਚਮਕ ਵਕਰ ਵਰਤੋ</string>
+    <string name="display_legacy_curve_summary">ਪਿਛਲੀ ਚਮਕ ਪ੍ਰਤੀਕਿਰਿਆ ਵਕਰ ਬਹਾਲ ਕਰੋ</string>
+    <string name="display_about_title">ਡਿਸਪਲੇ ਕੰਟਰੋਲ ਬਾਰੇ</string>
+    <string name="parts_display_title">ਡਿਸਪਲੇ</string>
+    <string name="parts_display_summary">ਚਮਕ</string>
+</resources>

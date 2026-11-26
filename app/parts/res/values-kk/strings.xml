@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="display_title">Дисплей</string>
+    <string name="display_brightness_section">Жарықтық</string>
+    <string name="display_legacy_curve_title">Ескі жарықтық қисығын пайдалану</string>
+    <string name="display_legacy_curve_summary">Алдыңғы жарықтық реакция қисығын қалпына келтіру</string>
+    <string name="display_about_title">Дисплей басқару элементтері туралы</string>
+    <string name="parts_display_title">Дисплей</string>
+    <string name="parts_display_summary">Жарықтық</string>
+</resources>

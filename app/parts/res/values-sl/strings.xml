@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="display_title">Zaslon</string>
+    <string name="display_brightness_section">Svetlost</string>
+    <string name="display_legacy_curve_title">Uporabi staro krivuljo svetlosti</string>
+    <string name="display_legacy_curve_summary">Obnovi prejšnjo krivuljo odziva svetlosti</string>
+    <string name="display_about_title">O nastavitvah zaslona</string>
+    <string name="parts_display_title">Zaslon</string>
+    <string name="parts_display_summary">Svetlost</string>
+</resources>

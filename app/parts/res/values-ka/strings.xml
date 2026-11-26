@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="display_title">ეკრანი</string>
+    <string name="display_brightness_section">სიკაშკაშე</string>
+    <string name="display_legacy_curve_title">ძველი სიკაშკაშის მრუდის გამოყენება</string>
+    <string name="display_legacy_curve_summary">წინა სიკაშკაშის რეაქციის მრუდის აღდგენა</string>
+    <string name="display_about_title">ეკრანის კონტროლის შესახებ</string>
+    <string name="parts_display_title">ეკრანი</string>
+    <string name="parts_display_summary">სიკაშკაშე</string>
+</resources>

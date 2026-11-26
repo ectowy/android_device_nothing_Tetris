@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="display_title">การแสดงผล</string>
+    <string name="display_brightness_section">ความสว่าง</string>
+    <string name="display_legacy_curve_title">ใช้เส้นความสว่างแบบเดิม</string>
+    <string name="display_legacy_curve_summary">คืนค่าเส้นตอบสนองความสว่างก่อนหน้า</string>
+    <string name="display_about_title">เกี่ยวกับการควบคุมจอแสดงผล</string>
+    <string name="parts_display_title">การแสดงผล</string>
+    <string name="parts_display_summary">ความสว่าง</string>
+</resources>

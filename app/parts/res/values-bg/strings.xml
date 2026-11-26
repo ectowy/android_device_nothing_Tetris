@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="display_title">Дисплей</string>
+    <string name="display_brightness_section">Яркост</string>
+    <string name="display_legacy_curve_title">Използване на старата крива на яркостта</string>
+    <string name="display_legacy_curve_summary">Възстановете предишната крива на отговор на яркостта</string>
+    <string name="display_about_title">За контролите на дисплея</string>
+    <string name="parts_display_title">Дисплей</string>
+    <string name="parts_display_summary">Яркост</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="display_title">Дисплей</string>
+    <string name="display_brightness_section">Яскравість</string>
+    <string name="display_legacy_curve_title">Використовувати стару криву яскравості</string>
+    <string name="display_legacy_curve_summary">Відновити попередню криву відгуку яскравості</string>
+    <string name="display_about_title">Про керування дисплеєм</string>
+    <string name="parts_display_title">Дисплей</string>
+    <string name="parts_display_summary">Яскравість</string>
+</resources>

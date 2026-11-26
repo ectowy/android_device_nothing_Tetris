@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="display_title">डिस्प्ले</string>
+    <string name="display_brightness_section">चमक</string>
+    <string name="display_legacy_curve_title">पुराना ब्राइटनेस कर्व उपयोग करें</string>
+    <string name="display_legacy_curve_summary">पिछला ब्राइटनेस प्रतिक्रिया कर्व बहाल करें</string>
+    <string name="display_about_title">डिस्प्ले नियंत्रणों के बारे में</string>
+    <string name="parts_display_title">डिस्प्ले</string>
+    <string name="parts_display_summary">चमक</string>
+</resources>

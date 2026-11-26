@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="display_title">Schermi</string>
+    <string name="display_brightness_section">Luminositât</string>
+    <string name="display_legacy_curve_title">Dopre la curvature di luminositât legacy</string>
+    <string name="display_legacy_curve_summary">Ripristine la vecje curvature di rispueste de luminositât</string>
+    <string name="display_about_title">Informazions sui controls dal schermi</string>
+    <string name="parts_display_title">Schermi</string>
+    <string name="parts_display_summary">Luminositât</string>
+</resources>

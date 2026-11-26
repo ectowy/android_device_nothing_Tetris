@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="display_title">Displej</string>
+    <string name="display_brightness_section">Jas</string>
+    <string name="display_legacy_curve_title">Použiť starú krivku jasu</string>
+    <string name="display_legacy_curve_summary">Obnoviť predchádzajúcu krivku odozvy jasu</string>
+    <string name="display_about_title">O ovládaní displeja</string>
+    <string name="parts_display_title">Displej</string>
+    <string name="parts_display_summary">Jas</string>
+</resources>

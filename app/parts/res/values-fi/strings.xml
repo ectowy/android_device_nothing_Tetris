@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="display_title">Näyttö</string>
+    <string name="display_brightness_section">Kirkkaus</string>
+    <string name="display_legacy_curve_title">Käytä vanhaa kirkkauskäyrää</string>
+    <string name="display_legacy_curve_summary">Palauta aiempi kirkkausvastekäyrä</string>
+    <string name="display_about_title">Tietoja näytön ohjaimista</string>
+    <string name="parts_display_title">Näyttö</string>
+    <string name="parts_display_summary">Kirkkaus</string>
+</resources>
